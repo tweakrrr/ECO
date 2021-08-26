@@ -1,4 +1,4 @@
-# External Crosshair Overlay
+# ECO
 
 [![Build status](https://ci.appveyor.com/api/projects/status/3d1t03v8dpuncpi0?svg=true)](https://ci.appveyor.com/project/gmastergreatee/externalcrosshairoverlay)
 [![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square&logo=paypal)](https://www.paypal.me/RajarshiVaidya)
@@ -31,8 +31,3 @@ Download [here](https://github.com/gmastergreatee/ExternalCrosshairOverlay/relea
 
 To make minor adjustments, focus the slider by clicking it, then press the buttons left/right arrow keys(or up/down) 
 It should change by 0.01 points in that case, whereas clicking on either side of the slider with mouse should change by 0.1 points
-
-### Notice (16 Jan, 2019)
-__ECO__ was developed as a prototype. Therefore, there will be no further enhancements to the app __AFTER__ milestone 0.2.2 is reached.
-
-__Feature requests are still welcome.__
