@@ -9,7 +9,7 @@ Simple external crosshair overlay, requires .Net v4.5
 In some games like CSGO, this will work on fullscreen-windowed/windowed mode only.
 Whereas in games like UT2004, all display modes will be supported.
 
-Download [here](https://github.com/wtftd/ExternalCrosshairOverlay/releases/latest).
+Download [here](https://github.com/wtftd/ECO/releases/latest).
 
 ## Features
 
