@@ -1,9 +1,5 @@
 # ECO
 
-[![Build status](https://ci.appveyor.com/api/projects/status/3d1t03v8dpuncpi0?svg=true)](https://ci.appveyor.com/project/gmastergreatee/externalcrosshairoverlay)
-
-Credits : wtftd
-
 Simple external crosshair overlay, requires .Net v4.5
 
 In some games like CSGO, this will work on fullscreen-windowed/windowed mode only.
